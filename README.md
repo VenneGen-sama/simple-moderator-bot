@@ -1,7 +1,7 @@
 # simple-moderator-bot
 - Kode bot khusus buat bot discord
 
-- ⁉️ Ini adalah kode pertama yg gw buat, jadi kalo ada error atau lainnya langsung dm/contact gw
+- ‼️ Ini adalah kode pertama yg gw buat, jadi kalo ada error atau lainnya langsung dm/contact gw
 
 ## 📲 Contact
 - - 🔗 [Discord](https://discord.gg/29HR28ZcWt)
